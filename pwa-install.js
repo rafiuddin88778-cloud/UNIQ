@@ -7,7 +7,7 @@
 // Generate a VAPID key pair at: https://vapidkeys.com
 // or run:  npx web-push generate-vapid-keys
 // Paste your PUBLIC key here:
-const VAPID_PUBLIC_KEY = 'YOUR_VAPID_PUBLIC_KEY_HERE';
+const VAPID_PUBLIC_KEY = 'BGpWeAgstRDb9tTwfGp1Nk9Kr5zinxZn8FEK1_7wqbVCybeAhhRtkqdwJXYbc0PD4SkIPN5XbIT8fjLQLVtfcyc';
 
 // ─────────────────────────────────────────────────────
 //  1.  SERVICE WORKER REGISTRATION
